@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "example" {
-  name     = "terraform-test-rg"
-  location = "northeurope"
+  name     = "tfstate"
+  location = "eastus"
 }
